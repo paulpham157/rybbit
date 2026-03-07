@@ -20,7 +20,7 @@
     "lucide-react": "0.510.0",
     "motion": "12.11.0",
     "next": "^15.3.2",
-    "next-mdx-remote": "^5.0.0",
+    "next-mdx-remote": "^6.0.0",
     "nextra": "^4.2.17",
     "nextra-theme-docs": "4.2.17",
     "posthog-js": "^1.249.0",
